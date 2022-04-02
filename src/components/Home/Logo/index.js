@@ -63,6 +63,7 @@ const Logo = () => {
           />
         </g>
       </svg> */}
+      <img src={LogoS} alt="" />
     </div>
   )
 }
