@@ -36,7 +36,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://wa.me/8827075174"
+            href="https://wa.me/+918827075174"
             target="_blank"
             rel="noreferrer"
           >
