@@ -34,16 +34,15 @@ const About = () => {
           </h1>
           <p>
             I'm a first year BTech. student at VelTech University, Chennai. I'm a self learninng web developer
-            who is guided and inspired by his elder brother.
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            who is guided and inspired by his elder brother. <br />
+            I have my expertise in <b>MERN</b> stack technologies.
           </p>
           <p align="LEFT">
             I'm quietly confident, naturally curious, and perpetually working on
             improving my chops one design problem at a time.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a fun-loving, hustling, learner,
+            If I need to define myself in one sentence that would be a fun-loving, hustling, self-learner,
             a good son, a good brother and a good friend
              who is also a tech enthusiast and tech Obsessed!!!!
           </p>
